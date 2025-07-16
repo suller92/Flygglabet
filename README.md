@@ -1,8 +1,9 @@
 # Flygglabet
-//Interactive “Flyglabbet” ? Style Simulator
-//
-// Drawing inspiration from the Flyglabbet section of the Linköping Air Force Museum, this browser?based simulator puts your coordination to the test.
-// Two movable cursors start at the center of a square playfield.In random intervals, targets appear along each axis—your job is to “lock” a cursor onto its target by holding it there briefly.
+
+# Interactive “Flyglabbet” ? Style Simulator
+#
+# Drawing inspiration from the Flyglabbet section of the Linköping Air Force Museum, this browser?based simulator puts your coordination to the test.
+# Two movable cursors start at the center of a square playfield.In random intervals, targets appear along each axis—your job is to “lock” a cursor onto its target by holding it there briefly.
 //
 // Gameplay Mechanics:
 // Movement: Calculates velocity proportionally to the mouse’s distance from the center along both the X and Y axes, effectively turning the cursor into a virtual joystick.
